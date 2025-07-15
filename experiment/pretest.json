@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "An electrolytic cell:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Has a non-spontaneous chemical reaction",
+        "b": "Requires application of a negative potential to make the reaction occur",
+        "c": "Has a positively charged anode",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct, but not complete. This is part of the characteristics of an electrolytic cell.",
+        "b": "Correct, but not complete. A negative potential is required to drive the reaction.",
+        "c": "Partially true, but not the complete defining feature.",
+        "d": "Correct. All options A and B are true for an electrolytic cell."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "If we pass a current of 10.0 Amperes through a solution for 1 hour, how many moles of electrons are used?",
+      "answers": {
+        "a": "10 x 1 x 3600 / 96487",
+        "b": "10 x 1 x 3600",
+        "c": "10 x 1 x 3600 x 96487",
+        "d": "10 x 1"
+      },
+      "explanations": {
+        "a": "Correct. Charge in coulombs divided by Faraday’s constant gives moles of electrons.",
+        "b": "Incorrect. This gives the charge in coulombs, not the moles.",
+        "c": "Incorrect. This would give an incorrect and large value.",
+        "d": "Incorrect. This gives the total ampere-hours, not moles."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     }
   ]
 }
