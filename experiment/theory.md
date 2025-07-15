@@ -1,10 +1,9 @@
 <h3>Introduction</h3>
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;">Professor Julius Tafel, around 1905.<br>(Courtesy Chemical Institute, Wurzburg University)</p> </div>
 
 <div style="float: right; margin-left: 20px; display: flex; flex-direction: column; align-items: center;">
-    <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
-    <p style="text-align: center; font-size: smaller; font-style: italic;">Professor Julius Tafel, around 1905.<br>(Courtesy Chemical Institute, Wurzburg University)</p>
+<img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
+<p style="text-align: center; font-size: smaller; font-style: italic;">Professor Julius Tafel, around 1905.<br>(Courtesy Chemical Institute, Wurzburg University)</p>
 </div>
 
 <p>
