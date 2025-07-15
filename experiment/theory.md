@@ -2,6 +2,11 @@
 
 <div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;">Professor Julius Tafel, around 1905.<br>(Courtesy Chemical Institute, Wurzburg University)</p> </div>
 
+<div style="float: right; margin-left: 20px; display: flex; flex-direction: column; align-items: center;">
+    <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
+    <p style="text-align: center; font-size: smaller; font-style: italic;">Professor Julius Tafel, around 1905.<br>(Courtesy Chemical Institute, Wurzburg University)</p>
+</div>
+
 <p>
   Tafel's name is an adjective in the language of all trained electrochemists, yet not too many of them would even know his first name.
   The fame of the <strong>"Tafel law"</strong> and <strong>"Tafel line"</strong> overshadows Tafel's claim to fame as one of the 
