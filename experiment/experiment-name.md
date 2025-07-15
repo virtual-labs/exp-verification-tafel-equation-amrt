@@ -1,1 +1,1 @@
-## Experiment name
+## Verification of Tafel Equation
