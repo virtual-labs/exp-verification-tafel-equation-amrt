@@ -34,6 +34,58 @@
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
+    },
+    {
+      "question": "The REDOX reaction Zn(s) + Cu²⁺(aq) = Zn²⁺(aq) + Cu(s) has E° = +1.10 V. The standard free energy for this reaction can be calculated as.....",
+      "answers": {
+        "a": "ΔG° = 2 (96487) (1.10) J/mol",
+        "b": "ΔG° = - 3 (96487) (1.10) J/mol",
+        "c": "ΔG° = 96487 (1.10) J/mol",
+        "d": "ΔG° = - 96487 (1.10) J/mol"
+      },
+      "explanations": {
+        "a": "Incorrect. The sign is wrong. It should be negative as the reaction is spontaneous.",
+        "b": "Incorrect. The number of electrons is 2, not 3.",
+        "c": "Incorrect. The sign is wrong and n is missing.",
+        "d": "Incorrect. n=1 is incorrect for this reaction.",
+        "e": "Correct. ΔG° = –nFE° = –2×96487×1.10 J/mol."
+      },
+      "correctAnswer": "e",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The fuel cell we discussed in class forms the following product.",
+      "answers": {
+        "a": "H₂S",
+        "b": "H₂",
+        "c": "O₂",
+        "d": "H₂O"
+      },
+      "explanations": {
+        "a": "Incorrect. Hydrogen sulfide is not a product of standard fuel cells.",
+        "b": "Incorrect. Hydrogen is a reactant, not a product.",
+        "c": "Incorrect. Oxygen is also a reactant.",
+        "d": "Correct. The product of hydrogen and oxygen fuel cell is water (H₂O)."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The electric charge or electrode deposition of one gram equivalent of a substance is .....",
+      "answers": {
+        "a": "96,500 coulombs per second",
+        "b": "charge on one mole of electrons",
+        "c": "one ampere for one second",
+        "d": "one ampere for one hour"
+      },
+      "explanations": {
+        "a": "Incorrect. This is a rate, not a total charge.",
+        "b": "Correct. One gram equivalent corresponds to one Faraday, which is the charge on one mole of electrons.",
+        "c": "Incorrect. That’s just one coulomb.",
+        "d": "Incorrect. That’s 3600 coulombs, not one Faraday."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
